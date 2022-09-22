@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: nginx
+  repository: bora23/test-dborovets
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: master-b60a38732b4ba8a325ddb9a9b0372f31c995156b
