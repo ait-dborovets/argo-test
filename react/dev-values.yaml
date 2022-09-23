@@ -6,7 +6,7 @@ image:
   repository: bora23/test-dborovets
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: master-b95a4934e97d5af1baa142338280aebf160794ed
+  tag: master-7d9536cb731afa17d0f7a5e44158fa38bf734fc8
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
